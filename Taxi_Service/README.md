@@ -10,16 +10,16 @@ pandas
 numpy  
 seaborn  
 matplotlib  
-statsmodels.tsa.seasonal.**seasonal_decompose**
-sklearn.metrics.**mean_squared_error**
-sklearn.model_selection.**train_test_split**
-sklearn.model_selection.**cross_val_score**
-sklearn.model_selection.**TimeSeriesSplit**
-sklearn.model_selection.**GridSearchCV**
-sklearn.linear_model.**LinearRegression**
-sklearn.ensemble.**RandomForestRegressor**
-sklearn.dummy.**DummyRegressor**
-catboost.**CatBoostRegressor**
+statsmodels.tsa.seasonal.**seasonal_decompose**  
+sklearn.metrics.**mean_squared_error**  
+sklearn.model_selection.**train_test_split**  
+sklearn.model_selection.**cross_val_score**  
+sklearn.model_selection.**TimeSeriesSplit**  
+sklearn.model_selection.**GridSearchCV**  
+sklearn.linear_model.**LinearRegression**  
+sklearn.ensemble.**RandomForestRegressor**  
+sklearn.dummy.**DummyRegressor**  
+catboost.**CatBoostRegressor**  
 
 ## Общий вывод
 Проведено обучение нескольких моделей с контролем качества их предсказаний. Выбрана наиболее подходящая модель для запуска в производство.
